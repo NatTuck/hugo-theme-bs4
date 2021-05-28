@@ -1,0 +1,18 @@
+name = "Hugo BS4"
+license = "CC-BY-3.0"
+licenselink = "https://github.com/NatTuck/hugo-theme-bs4/blob/master/LICENSE.txt"
+description = "Fork of github.com/alanorth/hugo-theme-bootstrap4-blog"
+homepage = "https://github.com/NatTuck/hugo-theme-bs4"
+tags = ["bootstrap", "blog", "font awesome"]
+features = ["responsive", "blog"]
+min_version = 0.55
+
+[author]
+  author = "Nat Tuck"
+  homepage = "https://nattuck.fogcloud.org/"
+
+[original]
+  name = "Alan Orth"
+  homepage = "https://picturingjordan.com"
+
+# vim: ts=2 sw=2 et
